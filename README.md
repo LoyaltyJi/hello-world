@@ -1,2 +1,3 @@
 # hello-world
-just a starting example
+
+This is a test example: hello-world.
